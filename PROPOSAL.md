@@ -2,16 +2,18 @@
 
 ##Description and Motivation
 The biggest motivation for this project is to have a place where anyone can see who I am and what I do. This project will show my skills and things I have accomplished as a software developer such as projects and goals I am working towards. This will also be a helpful resource when trying to get job opportunities and showing myself as successful.
+###Design Image
+![DesignImage](images/design.jpg)
 
 ##Prior Art
 A lot of people use a personal portfolio to show who they are within the software developer space. I took a look into other peoples portfolios and took some inspiration. I really like the simplicity aspect that Ali Spittel has put into hers. All of the information is there but it has a nice little touch showing off her skills in javascript, whenever a user clicks on the blank parts of the page little geometric shapes of pastel colors are randomly generated all over the page. I also favor towards having everything all on one page instead of separated onto different pages. 
 
 ##Core User Workflows
-* Professional Bio - The site should show a short description(Bio) of who I am and show some of my personality.
-* Skills - The user should be able to get an idea of my skills and things im proficient in.
-* Goals - There should be a place for a user to see my current goals, long term and short term.
-* Contact Info - A place where a user is able to get into contact with me.
-* Projects - A user should be able to see some of my projects that I have created to get an idea of what I am capable of.
+* User Can Know My Name and Read a bit about me - The site should show a short description(Bio) of who I am and show some of my personality.
+* A user can see me Skills - The user should she a list of my skills and things I am proficient in.
+* A user can see a list of my goals  - There should be a place for a user to see my current goals, long term and short term.
+* A user can get into Contact with me - A place where a user is able to get into contact with me.
+* A user can go and look at my projects - A user should be able to see some of my projects that I have created to get an idea of what I am capable of.
 
 ##Daily Goals
 * **Tuesday** - Start getting the general content of my website setup so I can begin design phase. If time allows start adding css
