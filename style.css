@@ -119,40 +119,33 @@ html {
     border-radius: 50%;
   }
 
-
-.nav {
-    display: flex;
-    justify-content: flex-end;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    background: var(--main-yellow);
-    box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
-    z-index: 10;
-  }
-  
-  .nav-list {
-    display: flex;
-    margin-right: 2rem;
-  }
-  
-  @media (max-width: 28.75em) {
-    .nav {
+  .projects-title {
+      display: flex;
       justify-content: center;
-    }
-  
-    .nav-list {
-      margin: 0 1rem;
-    }
+      align-content: center;
+      padding: 1rem 1rem 1rem 1rem;
+      box-shadow: 2px 0 0 black;
   }
-  
-  .nav-list a {
-    display: block;
-    font-size: 2.2rem;
-    padding: 2rem;
-  }
-  
-  .nav-list a:hover {
-    background: var(--main-blue);
-  }
+
+  .projects-section { 
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 1rem 1rem 1rem 1rem;
+}
+
+  .card-specifics {
+    background: #373737 !important;
+    color: white;
+}
+
+ .btn-primary {
+   background-color: red !important;
+   border: solid 1px black !important;
+ }
+
+ .btn-primary:hover {
+   background-color: cyan !important;
+ }
+
+
