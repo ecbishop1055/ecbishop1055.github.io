@@ -61,7 +61,7 @@ html {
     background-color: #515151;
     flex: 1;
     padding: 2rem 4rem;
-    text-align: center;
+    text-align: left;
     color: white;
     box-shadow: 0 2px 0 rgba(255,255,255, 0.9);
     line-height: 1.5 !important;
