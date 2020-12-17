@@ -50,6 +50,9 @@ html {
 @media screen and (max-width: 600px) {
   .my-h1 {
     font-size: 45px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
   }
 }
 
@@ -141,7 +144,7 @@ html {
   }
   
   .contact-details {
-    font-size: 2.4rem;
+    font-size:  25px !important ;
     text-shadow: 2px 2px 1px #1f1f1f;
     transition: transform 0.3s ease-out;
     color: red;
@@ -149,6 +152,7 @@ html {
   
   .contact-details:hover {
     transform: translateY(8px);
+    color: cyan;
   }
   
 
