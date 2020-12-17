@@ -3,6 +3,9 @@
     line-height: 2 !important;
 }
 
+html {
+  scroll-behavior: smooth;
+}
 
 .navbar-custom { 
     background-color: #090809; 
@@ -22,8 +25,16 @@ html {
     background-image: url("images/red.jpg");
     background-position: center;
     background-size: cover;
+    
 }
 
+.bg-image {
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    background-image: url("images/red.jpg");
+    background-position: center;
+    background-size: cover;
+}
 
 
 .my-p {
@@ -181,4 +192,3 @@ html {
   height: 30vh;
   object-fit: cover;
   }
-
