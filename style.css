@@ -24,17 +24,15 @@ html {
     height: 100vh;
     font-family: 'Do Hyeon', sans-serif;
     color: white;
-    background-image: url("images/red.jpg");
+    background-image: url("images/levi-frey-99GTObM6GUU-unsplash.jpg");
     background-position: center;
     background-size: cover;
-    
 }
-
 
 .bg-image {
     filter: blur(8px);
     -webkit-filter: blur(8px);
-    background-image: url("images/red.jpg");
+    background-image: url("images/levi-frey-99GTObM6GUU-unsplash.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -97,10 +95,10 @@ html {
     /* border: solid 1px black; */
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .grid-container {
     display: flex;
-    padding: 0rem 0rem !important;
+    padding: 2rem 2rem !important;
     flex-wrap: wrap;
 
   }
